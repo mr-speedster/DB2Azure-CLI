@@ -1,0 +1,6 @@
+typer[all]
+inquirer
+yaspin
+pyfiglet
+tabulate
+db2azure
